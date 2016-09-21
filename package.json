@@ -1,0 +1,18 @@
+{
+  "name": "lodash-plural",
+  "version": "1.0.0",
+  "description": "mixin lodash with plural noun function",
+  "main": "lodash-plural.js",
+  "scripts": {
+    "test": "mocha test/test-plural.js"
+  },
+  "author": "Moa Chung",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
